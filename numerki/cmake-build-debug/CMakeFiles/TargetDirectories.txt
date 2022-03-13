@@ -1,0 +1,3 @@
+C:/Users/komor/Desktop/studia/numerki/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/komor/Desktop/studia/numerki/cmake-build-debug/CMakeFiles/numerki.dir
+C:/Users/komor/Desktop/studia/numerki/cmake-build-debug/CMakeFiles/rebuild_cache.dir
